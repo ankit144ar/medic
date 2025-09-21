@@ -119,6 +119,8 @@ export default function SearchHospital() {
       </Select>
 
       <Button
+        id="searchBtn"
+        className="searchBtn"
         type="submit"
         variant="contained"
         size="large"
